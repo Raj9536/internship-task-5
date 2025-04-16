@@ -50,26 +50,6 @@ Edit
 kubectl describe deployment myapp-deployment
 kubectl describe service myapp-service
 kubectl describe pod <pod-name>
-📸 Screenshots
-![minkube start](https://github.com/user-attachments/assets/4de44197-fc40-43fa-a8d1-71a7f3310689)
-
-
-![get pods](https://github.com/user-attachments/assets/f5f72761-0f89-4767-9615-1f4bc9573956)
-
-
-![get services](https://github.com/user-attachments/assets/bfaad686-0bca-4264-b695-b5f0db7d39b0)
-
-
-![accessing my services](https://github.com/user-attachments/assets/930e3366-5734-4b42-aeae-79a1e20001de)
-
-
-![scale up pods](https://github.com/user-attachments/assets/74619bfe-ce87-4806-bb6f-45bbb0a50645)
-
-
-![pod describe](https://github.com/user-attachments/assets/b283e460-ddfa-45c2-8978-f9552dd75ddb)
-
-
-![stop minikube](https://github.com/user-attachments/assets/2c9f1674-6741-4e37-a648-145acd9fc5ac)
 
 📘 Key Learnings
 Kubernetes deployment and service basics
